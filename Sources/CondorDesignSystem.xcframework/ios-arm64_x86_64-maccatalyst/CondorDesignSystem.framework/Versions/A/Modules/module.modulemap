@@ -1,0 +1,11 @@
+framework module CondorDesignSystem {
+  umbrella header "CondorDesignSystem.h"
+
+  export *
+  module * { export * }
+}
+
+module CondorDesignSystem.Swift {
+    header "CondorDesignSystem-Swift.h"
+    requires objc
+}
