@@ -41,9 +41,17 @@
 	<key>DTXcodeBuild</key>
 	<string>13C100</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.15</string>
+	<string>12.0</string>
 	<key>NSHumanReadableCopyright</key>
 	<string></string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>SSSakrSoft-Bold.otf</string>
+		<string>SSSakrSoft-Heavy.otf</string>
+		<string>SSSakrSoft-light.otf</string>
+		<string>SSSakrSoft-Medium.otf</string>
+		<string>SSSakrSoft-Regular.otf</string>
+	</array>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>2</integer>
