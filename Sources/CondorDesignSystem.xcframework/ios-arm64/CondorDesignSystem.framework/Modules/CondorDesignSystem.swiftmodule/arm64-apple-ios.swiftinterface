@@ -12,10 +12,10 @@ public enum TextStyle {
   case headline3
   case subtitle1
   case subtitle2
-  case body1
-  case body2
-  case body3
-  case body4
+  case body1Regular
+  case body2Regular
+  case body1Medium
+  case body2Meduim
   case buttonLarge
   case buttonMedium
   case buttonSmall
