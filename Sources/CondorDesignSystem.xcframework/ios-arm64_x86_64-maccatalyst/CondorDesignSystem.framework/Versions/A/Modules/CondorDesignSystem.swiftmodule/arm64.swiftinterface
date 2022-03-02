@@ -15,7 +15,7 @@ public enum TextStyle {
   case body1Regular
   case body2Regular
   case body1Medium
-  case body2Meduim
+  case body2Medium
   case buttonLarge
   case buttonMedium
   case buttonSmall
