@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		fEhdTpHxyeDHV8Bh//cuR+SCr08=
+		m27RHt5bnMM8fyJethT9uoTjbR4=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		FtOU82VXDqAH1y16WhLY2uZ7G9Y=
+		5+cacYtVTH6/5BpRIaSzlOA7EPY=
 		</data>
 		<key>Resources/SSSakrSoft-Bold.otf</key>
 		<data>
@@ -39,7 +39,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X7DT+PV0/eoUs9KfOhn0yOBwGOiuYQlMTvMJfncPJis=
+			51fa7I97LqaPMNK94eb7xfJA8H6uHcFZn6twTKRjAFk=
 			</data>
 		</dict>
 		<key>Headers/CondorDesignSystem.h</key>
@@ -53,84 +53,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			I/j+JyYzOIF0iGeyqUz3F+c7dg41VXUUMQABtX8Psbg=
+			bA7wGQnIgUnxSwH28RWzJowAsYvnGJBSUsqfeAlybpU=
 			</data>
 		</dict>
 		<key>Modules/CondorDesignSystem.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GcY7Q6foRSRGnePY4CPgeTWWnIV9JCd43HLPGSAm20k=
+			3Bsgc91YZ6Uk2HZt/HNLAMpFtIJLEJ15CjA2KUGKmbA=
 			</data>
 		</dict>
 		<key>Modules/CondorDesignSystem.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1viO78WJSUniIqnalGgxT/23Lp/lG3MXtkUzIFjp8CI=
-			</data>
-		</dict>
-		<key>Modules/CondorDesignSystem.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			I/j+JyYzOIF0iGeyqUz3F+c7dg41VXUUMQABtX8Psbg=
-			</data>
-		</dict>
-		<key>Modules/CondorDesignSystem.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GcY7Q6foRSRGnePY4CPgeTWWnIV9JCd43HLPGSAm20k=
-			</data>
-		</dict>
-		<key>Modules/CondorDesignSystem.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1viO78WJSUniIqnalGgxT/23Lp/lG3MXtkUzIFjp8CI=
+			+nlEiyQxXiPbxui1YY6QoXt/Qf933V7DyDLR2fs/XFY=
 			</data>
 		</dict>
 		<key>Modules/CondorDesignSystem.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PZIzSRxoBpD9sxMFv9m3EXninUGJlI/BvG5Bd3VqW/k=
+			P5ga1vbGIWI6TKFWbt2POoVuxCkwYDs7wrDoq+AVq+M=
 			</data>
 		</dict>
 		<key>Modules/CondorDesignSystem.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OZ5BDn+zmZ09/j0rD5oLk6Rwq+GQLhDAUnf43UICrcY=
+			jjjLY/DjoX8GxRFUDFU5iJ8UfemRave0h8n5KHlG4Gw=
 			</data>
 		</dict>
 		<key>Modules/CondorDesignSystem.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xSemHJkxNDpAV/1FJ3jdBCv9SCCmpw4PjBeKWq/aVUY=
-			</data>
-		</dict>
-		<key>Modules/CondorDesignSystem.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PZIzSRxoBpD9sxMFv9m3EXninUGJlI/BvG5Bd3VqW/k=
-			</data>
-		</dict>
-		<key>Modules/CondorDesignSystem.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OZ5BDn+zmZ09/j0rD5oLk6Rwq+GQLhDAUnf43UICrcY=
-			</data>
-		</dict>
-		<key>Modules/CondorDesignSystem.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xSemHJkxNDpAV/1FJ3jdBCv9SCCmpw4PjBeKWq/aVUY=
+			eNhnJlu4AZQQcerGaLBYLq3/YBpKtG4RK88YTqnxXeY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -144,14 +102,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			60YcqaFrW9PAZR20VYa7rIBwNjJTauioDRCQPliBmN8=
+			HOXCxXlQ17+xAEJBQpDjzIi+KwVX8Uknoch0n/lOWVQ=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OqPqRiFB1G1gunPvbVLqChlNuaHeDGd3wWnHm1hdLN4=
+			c4xFHvQsvOXfOV1DNjbBdNcjyP56hu7bDZjBUPaMhVw=
 			</data>
 		</dict>
 		<key>Resources/SSSakrSoft-Bold.otf</key>
