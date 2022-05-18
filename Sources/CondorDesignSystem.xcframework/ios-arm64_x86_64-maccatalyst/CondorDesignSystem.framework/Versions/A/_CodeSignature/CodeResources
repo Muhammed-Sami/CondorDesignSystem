@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		5+cacYtVTH6/5BpRIaSzlOA7EPY=
+		+RYj6XpxoyfNwffX5zXIhIhXNfo=
 		</data>
 		<key>Resources/SSSakrSoft-Bold.otf</key>
 		<data>
@@ -60,14 +60,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3Bsgc91YZ6Uk2HZt/HNLAMpFtIJLEJ15CjA2KUGKmbA=
+			Cu6WSh4WG7ltqplrIJHTyi1ly0cQNxm0DVds4IzcCes=
 			</data>
 		</dict>
 		<key>Modules/CondorDesignSystem.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+nlEiyQxXiPbxui1YY6QoXt/Qf933V7DyDLR2fs/XFY=
+			XVZ5WDIVJJRjSShldzmFZ06WFwtDY3J9TM9wLaKUqIM=
 			</data>
 		</dict>
 		<key>Modules/CondorDesignSystem.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jjjLY/DjoX8GxRFUDFU5iJ8UfemRave0h8n5KHlG4Gw=
+			g9/HgRNSqMRlOwNMn2cUHhsL5g8id2znpSzvhdBWhmY=
 			</data>
 		</dict>
 		<key>Modules/CondorDesignSystem.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eNhnJlu4AZQQcerGaLBYLq3/YBpKtG4RK88YTqnxXeY=
+			SqCMOetBiXD79oIMYBm161AM9OynjZJGMTX3e49tHQE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -109,7 +109,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			c4xFHvQsvOXfOV1DNjbBdNcjyP56hu7bDZjBUPaMhVw=
+			gDzLZIs12YmvcQulSVDclFmnAscJ+f1IZ2d1UwKSYQg=
 			</data>
 		</dict>
 		<key>Resources/SSSakrSoft-Bold.otf</key>

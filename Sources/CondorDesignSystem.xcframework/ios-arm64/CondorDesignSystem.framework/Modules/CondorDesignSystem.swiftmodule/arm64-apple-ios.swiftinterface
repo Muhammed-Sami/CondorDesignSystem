@@ -1,9 +1,10 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)
-// swift-module-flags: -target arm64-apple-ios12.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name CondorDesignSystem
+// swift-module-flags: -target arm64-apple-ios13.4 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name CondorDesignSystem
 @_exported import CondorDesignSystem
 import Foundation
 import Swift
+import SwiftUI
 import UIKit
 import _Concurrency
 public enum TextStyle {
@@ -33,6 +34,39 @@ extension CondorDesignSystem.TextStyle {
   public var font: UIKit.UIFont {
     get
   }
+  public var swiftUIFont: SwiftUI.Font {
+    get
+  }
+}
+public enum ButtonSize {
+  case small, medium, large
+  public static func == (a: CondorDesignSystem.ButtonSize, b: CondorDesignSystem.ButtonSize) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum ButtonStatus {
+  case normal(CondorDesignSystem.ButtonType)
+  case pressed(CondorDesignSystem.ButtonType)
+  case disabled(CondorDesignSystem.ButtonType)
+}
+public enum ButtonType {
+  case primary
+  case secondary
+  case ghost
+  case text
+  public static func == (a: CondorDesignSystem.ButtonType, b: CondorDesignSystem.ButtonType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public struct CondorButton : SwiftUI.ButtonStyle {
+  public init(type: CondorDesignSystem.ButtonType, size: CondorDesignSystem.ButtonSize)
+  public func makeBody(configuration: CondorDesignSystem.CondorButton.Configuration) -> some SwiftUI.View
+  
+  public typealias Body = @_opaqueReturnTypeOf("$s18CondorDesignSystem0A6ButtonV8makeBody13configurationQr7SwiftUI0D18StyleConfigurationV_tF", 0) __
 }
 public enum Color {
   case neutral50
@@ -106,6 +140,9 @@ public enum Color {
 extension UIKit.UIColor {
   convenience public init?(color: CondorDesignSystem.Color)
 }
+extension SwiftUI.Color {
+  public init(color: CondorDesignSystem.Color)
+}
 public enum AppTarget {
   case forsale
   case q8car
@@ -116,8 +153,16 @@ public enum AppTarget {
   }
 }
 public func initializeDesignSystem(target: CondorDesignSystem.AppTarget)
+extension SwiftUI.View {
+  public func addBorder<S>(_ content: S, width: CoreGraphics.CGFloat = 1, cornerRadius: CoreGraphics.CGFloat) -> some SwiftUI.View where S : SwiftUI.ShapeStyle
+  
+}
 extension CondorDesignSystem.TextStyle : Swift.Equatable {}
 extension CondorDesignSystem.TextStyle : Swift.Hashable {}
+extension CondorDesignSystem.ButtonSize : Swift.Equatable {}
+extension CondorDesignSystem.ButtonSize : Swift.Hashable {}
+extension CondorDesignSystem.ButtonType : Swift.Equatable {}
+extension CondorDesignSystem.ButtonType : Swift.Hashable {}
 extension CondorDesignSystem.Color : Swift.Equatable {}
 extension CondorDesignSystem.Color : Swift.Hashable {}
 extension CondorDesignSystem.AppTarget : Swift.Equatable {}
