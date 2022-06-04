@@ -67,7 +67,7 @@ public enum ButtonType {
   }
 }
 public struct CondorButton : SwiftUI.ButtonStyle {
-  public init(type: CondorDesignSystem.ButtonType, size: CondorDesignSystem.ButtonSize)
+  public init(type: CondorDesignSystem.ButtonType, size: CondorDesignSystem.ButtonSize, width: CoreGraphics.CGFloat? = nil)
   public func makeBody(configuration: CondorDesignSystem.CondorButton.Configuration) -> some SwiftUI.View
   
   public typealias Body = @_opaqueReturnTypeOf("$s18CondorDesignSystem0A6ButtonV8makeBody13configurationQr7SwiftUI0D18StyleConfigurationV_tF", 0) __
